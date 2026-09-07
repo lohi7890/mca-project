@@ -1,6 +1,11 @@
+Status: Feature One and Feature Twoo
 Student Login Feature
 Username: SRN
+<<<<<<< HEAD
 Status: Feature One
+=======
+Status: Feature Two
+>>>>>>> feature/change-two
 Security: UpdatedStudent Login Feature
 Username: SRN
 Authentication: Enabled
